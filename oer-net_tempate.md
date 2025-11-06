@@ -128,12 +128,13 @@ Benötigtes Material
 
 _Nennung der benötigten Materialien, z. B. Moderationskarten_
 
+Alternativ oder ergänzend:
+---
+Diesen Abschnitt habe ich mal zur Ansicht gebaut. Die Felder und Bezeichnungen habe ich in Anlehnung an https://einfachgutelehre.uni-kiel.de/methoden erstellt.
+
+Nachnutzende könnten diesen Abschnitt allerdings kaputt machen, wenn sie dort mehr verändern als nur x in die eckigen Klammern zu schreiben...
+
 <div style="display: flex; flex-wrap: wrap; justify-content: space-between; gap: 0.5em;">
-
-
-Diesen Abschnitt habe ich mal zur Ansicht gebaut. Die Felder und Bezeichnungen habe ich in Anlehnung an https://einfachgutelehre.uni-kiel.de/methoden gebaut.
-
-Nachnutzende können diesen Abschnitt allerdings kaputt machen, wenn sie dort mehr verändern als nur x in die eckigen Klammern zu schreiben...
 
 <div style="flex: 1; background-color: lightblue; animation: blink 1s infinite alternate; padding: 1em; border-radius: 2px;">
 **Ziel der Methode**
