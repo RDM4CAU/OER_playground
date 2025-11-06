@@ -1,7 +1,7 @@
 <!--
 author: Autor:in (ORCID) Dieser Eintrag erscheint als Info in Liascript-Modulen
 
-email: Ansprechperson@email.de Dieser Eintrag erscheint als Infor in Liascript-Modulen
+email: Ansprechperson@email.de Dieser Eintrag erscheint als Info in Liascript-Modulen
 
 version:  Angabe der Version, z. B. v1
 
@@ -128,8 +128,9 @@ Benötigtes Material
 
 _Nennung der benötigten Materialien, z. B. Moderationskarten_
 
-Alternativ oder ergänzend:
+ACHTUNG! Alternativ oder ergänzend:
 ---
+
 Diesen Abschnitt habe ich mal zur Ansicht gebaut. Die Felder und Bezeichnungen habe ich in Anlehnung an https://einfachgutelehre.uni-kiel.de/methoden erstellt.
 
 Nachnutzende könnten diesen Abschnitt allerdings kaputt machen, wenn sie dort mehr verändern als nur x in die eckigen Klammern zu schreiben...
