@@ -7,7 +7,7 @@ version:  Angabe der Version, z. B. v1
 
 language: DE
 
-icon: https://www.nfdi.de/wp-content/uploads/2022/03/nfdi_4c_Wortmarke_Zusatz_quer-Zusammenarbeit-01.png
+icon: https://avatars.githubusercontent.com/u/124135835?s=400&u=4b7d7dba97d3d1447f826b5dea22b496cf8a8f26&v=4 
 
 link: hier kann man ein eigenes css einhängen, wenn man möchte
 
