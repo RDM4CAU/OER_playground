@@ -100,19 +100,40 @@ _Beschreibung von Ablauf und Durchführung der ausgewählten didaktischen Method
 
 _Vorbereitung und Durchführung der Methode sollte so beschrieben sein, dass Nachhnutzende sie ohne weitere externe Erläuterungen nachnutzen können. Gegebenenfalls Links auf hilfreiche Materialien und/oder Quellen integrieren._
 
-- Kurzbeschreibung: _Kurzbeschreibung der Methode_
+Kurzbeschreibung
+---
 
-- Vorbereitungsaufwand: _gering/mittel/hoch_
+_Kurzbeschreibung der Methode_
 
-- Zeit: _xx - xx Minuten_
+Vorbereitungsaufwand
+---
+_gering/mittel/hoch_
 
-- Ziel(e): _z. B. Aktivierung_
+Zeit
+---
 
-- Ablauf: _Nachvollziehbare Beschreibung des Ablaufs_
+_xx - xx Minuten_
 
-- Benötigtes Material: _Nennung der benötigten Materialien, z. B. Moderationskarten_
+Ziel(e)
+---
+
+_z. B. Aktivierung_
+
+Ablauf
+---
+_Nachvollziehbare Beschreibung des Ablaufs_
+
+Benötigtes Material
+---
+
+_Nennung der benötigten Materialien, z. B. Moderationskarten_
 
 <div style="display: flex; flex-wrap: wrap; justify-content: space-between; gap: 0.5em;">
+
+
+Diesen Abschnitt habe ich mal zur Ansicht gebaut. Die Felder und Bezeichnungen habe ich in Anlehnung an https://einfachgutelehre.uni-kiel.de/methoden gebaut.
+
+Nachnutzende können diesen Abschnitt allerdings kaputt machen, wenn sie dort mehr verändern als nur x in die eckigen Klammern zu schreiben...
 
 <div style="flex: 1; background-color: lightblue; animation: blink 1s infinite alternate; padding: 1em; border-radius: 2px;">
 **Ziel der Methode**
